@@ -1,9 +1,12 @@
 # PROGRAMMINGINTERNSHIPPROJECT-3
 Expense Tracker
+
 Overview
+
 The Expense Tracker is a simple Python program that helps users track their daily expenses by recording and categorizing them. It stores expenses in a CSV file and provides category-wise expenditure summaries.
 
 Features
+
 Add Expenses: Input amount, category, and description.
 View Expenses: Display all recorded expenses.
 Expense Summary: View total expenditure per category.
